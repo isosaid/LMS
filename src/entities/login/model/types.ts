@@ -1,0 +1,1 @@
+export const LOGINUSER='/auth/login'

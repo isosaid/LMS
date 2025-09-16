@@ -1,0 +1,7 @@
+export const GET_USER='/users/profile'
+export const GET_USERS='/users'
+export const ACTIVE_USERS='/users/activate'
+export const BLOCK_USERS='/users/block'
+export const DELETE_USER='/users/'
+export const EDIT_USER='/users/'
+export const ROLE_USER='/users/role'

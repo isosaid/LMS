@@ -1,0 +1,5 @@
+export const POST_IMAGE='/files/upload/image'
+export const POST_DOCUMENT='/files/upload/document'
+export const POST_DOCUMENT_MULTIPLE='/files/upload/document-multiple'
+export const DELETE_FILE='/files/'
+export const DELETE_FILE_URL='/files/url/'

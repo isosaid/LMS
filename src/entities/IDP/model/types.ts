@@ -1,0 +1,5 @@
+export const GET_YPRES='/ypres/admin'
+export const GET_YPRES_USER='/ypres/user'
+export const DELETE_YPRES='/ypres/'
+export const POST_YPRES='/ypres'
+export const PUT_YPRES='/ypres/'

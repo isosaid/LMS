@@ -1,0 +1,5 @@
+export const GET_TRACKS='/tracks'
+export const POST_TRACKS='/tracks'
+export const DELETE_TRACKS='/tracks/'
+export const EDIT_TRACKS='/tracks/'
+export const GET_BY_ID_TRACKS='/tracks/'
